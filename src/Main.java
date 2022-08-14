@@ -3,7 +3,7 @@ import java.util.Random;
 public class Main {
     public static void main(String[] args) {
         String[] word1 = {"Rahim","Yousuf", "Nejam","Shahin"};
-        String[] word2 = {"Love", "Play", "Hate"};
+        String[] word2 = {"Love", "Play", "Hate","is playing"};
         String[] word3 = {"FootBall", "Cricket", "Table Tennis", "Batminton"};
 
         Random random = new Random();
